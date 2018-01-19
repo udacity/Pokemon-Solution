@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/00b5ae623b1320b4c39a4a61bda7cc06819d75fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_ca7a439b80a0b81cfe652aad5641c5f108679d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/d4bb247c882fab1244116ca6809f9d507a1fd986/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_bfb4cb0cee90069def293f5a0fd811b5a6698363.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/e6a22794ec0938d1ca70ee9430002565dbad17ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_142349f82b5e64f9639abce7c7f2db79a5c6308d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/2a224fee6083fb6abecb4648fde308dbfe2af303/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_e76ae3b6b5df5f1b224dd3929b2eeb7471a81ff1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vickytu/Downloads/JSON_Practice/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="27a58048a2d9f7fd809d7269a078834128a9bf86">
+        <dex dex="/Users/vickytu/Downloads/JSON_Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d82f24e2714001880d603ae02520b3acd72b2ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/befc136db9b9d975482d60708b513c9f7de22725/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_9ed76021ef254f36ac5692fd817a99758c15ca15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/2e1112a50bcc13b656c49167cc241003b70654dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_757f9c4d5c5c5188cabe334f4b1565d41116528a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0dfddb0ffc8310031bd2f95a126a09c9a26c9139.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vickytu/Downloads/JSON_Practice/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vickytu/Downloads/JSON_Practice/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_42be970c0bb63c2eb4d15ecfd6deab2962f8d556/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/83214343aaf082930613be97f019026d3f36116e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_84293926f7cbe4ebb6ca18ac6f54908b23d808e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/73a59e35c9ddb8b76cd9ce3c66482897168112cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_fcd42732b774475816222dcd7eb0cd27903a0719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/6cba3f54b040f0130f2c4fab55665c6625441f81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_d257c676f30fc1dad2bc46a71adc6b2d7b024345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b03305224bb5122dae82184da1161a54961d41cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vickytu/.android/build-cache/8d77c5b74dfb5c6e18360bb45c9393c36919fdb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/vickytu/Desktop/Udacity/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_6ccdbfddea03337aa0a6872cd3fe48ac1d526f94.jar" />
+    </item>
+
+</items>
