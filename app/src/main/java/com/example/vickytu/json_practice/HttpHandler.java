@@ -12,6 +12,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class HttpHandler {
+    
+    private String TAG = MainActivity.class.getSimpleName();
 
     public HttpHandler() {
     }
@@ -28,18 +30,20 @@ public class HttpHandler {
             urlConnection.connect();
             inputStream = urlConnection.getInputStream();
             jsonResponse = convertStreamToString(inputStream);
-
-        } catch (IOException e) {
-            //handle the exception
-        } finally {
+            
             if (urlConnection != null) {
                 urlConnection.disconnect();
             }
             if (inputStream != null) {
                 inputStream.close();
             }
-            return jsonResponse;
+
+        } catch (Exception e) {
+            //handle the exception
+            Log.e(TAG, "HTTP connection error: " + e.getMessage());
         }
+        
+        return jsonResponse;
     }
 
     private String convertStreamToString(InputStream is) {
